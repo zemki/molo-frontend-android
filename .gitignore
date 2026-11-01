@@ -1,0 +1,28 @@
+*.iml
+.gradle
+/local.properties
+/.idea/*
+**/.kotlin/*
+.DS_Store
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Geheimnisse – niemals einchecken
+*.keystore
+*.jks
+*.p12
+*.pem
+app/google-services.json
+.env
+.env.*
+
+# Build-Artefakte
+*.apk
+*.aab
+app/release/
+*.der
+*.bks
+*.pfx

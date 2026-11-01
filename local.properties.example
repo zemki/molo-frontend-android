@@ -1,0 +1,20 @@
+# Kopiere diese Datei nach local.properties und trage deine Werte ein.
+# local.properties ist in .gitignore und wird nie committet.
+
+# Android SDK
+sdk.dir=/Users/<du>/Library/Android/sdk
+
+# GitHub Packages (privates Maven-Repo CONVELOP-GbR/forge)
+# Token mit Scope read:packages reicht aus.
+gpr.user=<github-benutzername>
+gpr.key=<github-personal-access-token>
+
+# Google Maps API-Key (Android, auf Paketname + SHA-256 einschränken!)
+molo.maps.apiKey=<maps-api-key>
+
+# Release-Signierung (Pfad absolut oder relativ zum Projekt-Root).
+# Ohne diese Werte wird der Release-Build unsigniert gebaut.
+molo.keystore.file=/Users/<du>/.molo-secrets/android.keystore
+molo.keystore.storePassword=<store-passwort>
+molo.keystore.keyAlias=android
+molo.keystore.keyPassword=<key-passwort>

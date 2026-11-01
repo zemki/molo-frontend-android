@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">Molo</string>
+
+    <!-- Bottom Navigation -->
+    <string name="bottom_navigation_explore">Explore</string>
+    <string name="bottom_navigation_events">Events</string>
+    <string name="bottom_navigation_feed">Feed</string>
+    <string name="bottom_navigation_bookmarks">Gemerkt</string>
+    <string name="bottom_navigation_infos">Mehr</string>
+
+    <!-- Main Content -->
+    <string name="main_content_article_fab_title">Artikel</string>
+    <string name="main_content_event_fab_title">Event</string>
+
+    <!-- Title -->
+    <string name="title_profile">Profil</string>
+    <string name="title_my_sources">Meine Quellen</string>
+    <string name="title_my_posts">Meine Posts</string>
+    <string name="title_registration">Registrierung</string>
+    <string name="title_password_reset">"Passwort zurücksetzen"</string>
+    <string name="title_tags">Meine Themen</string>
+    <string name="title_area_selection">Gebiet auswählen"</string>
+
+    <!-- Posting -->
+    <string name="posting_type_selection_article">Artikel</string>
+    <string name="posting_type_selection_event">Event</string>
+    <string name="posting_headline_event">Meine Events</string>
+    <string name="posting_headline_article">Meine Artikel</string>
+    <string name="article_posting_link_hint">Artikel-Link (optional)</string>
+    <string name="article_posting_tags_headline">Themen</string>
+    <string name="article_posting_tags_description">Wähle die Themen, die zu deinem Post passen. Unsere molo-KI hat schon mal ein paar Vorschläge gemacht.</string>
+    <string name="article_posting_title_placeholder">Überschrift / Titel</string>
+    <string name="article_posting_content_placeholder">Was gibt es Neues in deinem Ort?</string>
+    <string name="article_posting_created_title">Artikel erstellt!</string>
+    <string name="article_posting_updated_title">Artikel bearbeitet!</string>
+    <string name="article_posting_created_description">Du findest ihn unter Meine Posts.</string>
+    <string name="article_posting_updated_description">Du findest ihn unter Meine Posts.</string>
+
+    <string name="article_posting_publish_button_text">Beitrag veröffentlichen</string>
+    <string name="article_posting_draft_button_text">Entwurf speichern</string>
+    <string name="article_posting_completed_continue_button_text">Weiter</string>
+
+    <string name="event_posting_location_hint">Spielstätte / Veranstaltungsort</string>
+    <string name="event_posting_address_hint">Adresse</string>
+    <string name="event_posting_date_hint">Datum und Uhrzeit</string>
+    <string name="event_posting_link_hint">Event-Link (optional)</string>
+    <string name="event_posting_ticket_link_hint">Ticket-Link (optional)</string>
+
+    <string name="event_posting_tags_headline">Themen</string>
+    <string name="event_posting_tags_description">Wähle die Themen, die zu deinem Post passen. Unsere molo-KI hat schon mal ein paar Vorschläge gemacht.</string>
+
+    <string name="event_posting_title_hint">Event-Titel</string>
+    <string name="event_posting_content_hint">Infos zur Veranstaltung: Wer, Was, Wann, Wo und warum?</string>
+
+    <string name="event_posting_created_title">Event erstellt!</string>
+    <string name="event_posting_updated_title">Event bearbeitet!</string>
+    <string name="event_posting_created_description">Du findest ihn unter Meine Posts.</string>
+    <string name="event_posting_updated_description">Du findest ihn unter Meine Posts.</string>
+
+    <string name="event_posting_publish_button_text">Beitrag veröffentlichen</string>
+    <string name="event_posting_draft_button_text">Entwurf speichern</string>
+    <string name="event_posting_completed_continue_button_text">Weiter</string>
+
+    <!-- Bookmarks -->
+    <string name="bookmarked_headline_event">Gemerkte Events</string>
+    <string name="bookmarked_headline_article">Gemerkte Artikel</string>
+
+    <!-- Event -->
+    <string name="event_date_location_info_row_title">Location &amp; Themen</string>
+
+    <!-- Location -->
+    <string name="location_selection_card_title">Ausgewählter Standort</string>
+    <string name="location_radius_card_title">Umkreis</string>
+    <string name="location_next_button">Weiter</string>
+
+    <!-- Info -->
+    <string name="info_entry_profile">Profil</string>
+    <string name="info_entry_my_sources">Meine Quellen</string>
+    <string name="info_entry_posts">Posts</string>
+    <string name="info_entry_feedback_and_contact">Feedack und Kontakt</string>
+    <string name="info_entry_about_molo">Über molo.news</string>
+    <string name="info_entry_privacy">Datenschutzerklärung</string>
+    <string name="info_entry_imprint">Impressum</string>
+    <string name="info_entry_terms_of_use">Nutzungsbedingungen</string>
+
+    <string name="info_entry_preferences">Dunkles Design</string>
+
+
+    <!-- Profile -->
+    <string name="profile_image_source_text">Bildquelle: %s</string>
+    <string name="profile_first_name_hint">Vorname</string>
+    <string name="profile_last_name_hint">Nachname</string>
+    <string name="profile_display_name_hint">Anzeigename</string>
+    <string name="profile_description_hint">Selbstbeschreibung</string>
+    <string name="profile_area_hint">Verbreitungsgebiet</string>
+    <string name="profile_phone_hint">Telefonnummer</string>
+    <string name="profile_mail_hint">E-Mail</string>
+    <string name="profile_homepage_hint">Homepage</string>
+    <string name="profile_logout_button_text">Abmelden</string>
+    <string name="profile_login_button_text">Anmelden</string>
+    <string name="profile_delete_account_button_text">Account löschen?</string>
+    <string name="profile_public_information_title">Öffentliche Informationen</string>
+    <string name="profile_private_information_title">Private Informationen</string>
+
+    <!-- Event -->
+    <string name="event_add_to_calendar_action_text">Im Kalendar ansehen</string>
+    <string name="event_report_action_text">Event melden</string>
+    <string name="event_buy_tickets_button_text">Tickets kaufen</string>
+
+    <string name="event_filter_title_today">Heute</string>
+    <string name="event_filter_title_tomorrow">Morgen</string>
+    <string name="event_filter_title_weekend">Wochenende</string>
+    <string name="event_filter_title_custom">Kalender</string>
+    <string name="event_no_events_placeholder">Keine Events für deine Auswahl</string>
+    <string name="event_read_more_link">Zur Event-Website</string>
+
+    <string name="event_no_results_placeholder_text">Keine Events gefunden.</string>
+
+
+    <!-- Registration -->
+    <string name="registration_error_alert_title">Fehler beim Registrieren</string>
+    <string name="registration_success_alert_title">Registrierung erfolgreich!</string>
+    <string name="registration_success_alert_text">Vielen Dank für deine Registrierung. Bitte überprüfe dein E-Mail-Postfach, um deine Registrierung abzuschließen. Wir haben dir eine Bestätigungsmail geschickt</string>
+    <string name="registration_headline">Wir verwenden die Daten, um Beiträge von dir zu kennzeichnen. Der Anzeigename wird in der App bei den von dir veröffentlichten Inhalten für alle sichtbar. Es kann dein Name oder auch der Name deiner Organisation sein</string>
+    <string name="registration_first_name_hint">Vorname</string>
+    <string name="registration_last_name_hint">Nachname</string>
+    <string name="registration_display_name_hint">Anzeigename</string>
+    <string name="registration_phone_hint">Telefonnummer</string>
+    <string name="registration_area_hint">Verbreitungsgebiet</string>
+    <string name="registration_button_text">Konto erstellen</string>
+    <string name="registration_mail_hint">E-Mail</string>
+    <string name="registration_password_hint">Passwort</string>
+    <string name="registration_next_button_text">Weiter</string>
+    <string name="registration_agb_step_one">Ich bestätige hiermit, dass ich die "</string>
+    <string name="registration_agb_step_two">Nutzungsbedingungen"</string>
+    <string name="registration_agb_step_three"> gelesen und verstanden habe."</string>
+    <string name="registration_success_title">Wilkommen bei Molo!</string>
+    <string name="registration_success_subtitle">Wir haben dir eine E-Mail mit einem Bestatigungslink gesendet. Bitte gehe zu deinem E-Mail Postfach, um deinen Account freizuschalten.</string>
+    <string name="registration_header_title">Anmelden</string>
+    <string name="registration_header_subtitle">Du möchtest selbst lokale Infos und Events bei molo veröffentlichen? Dann melde dich an und poste direkt über die App.</string>
+
+    <!-- Password Reset -->
+    <string name="password_reset_error_alert_title">Fehler</string>
+    <string name="password_reset_request_success_alert_title">E-Mail gesendet</string>
+    <string name="password_reset_request_success_alert_text">Wir haben dir eine E-Mail mit einem Link zum Zurücksetzen deines Passworts geschickt. Bitte überprüfe dein Postfach.</string>
+    <string name="password_reset_next_button_text">Weiter</string>
+    <string name="password_reset_request_headline_text">Wir senden dir einen Link an deine E-Mail-Adresse, mit welchem du ein neues Passwort wählen kannst.</string>
+    <string name="password_reset_headline_text">Wähle ein neues Passwort und aktiviere es mit Klick auf &quot;Zurücksetzen&quot;.</string>
+    <string name="password_reset_mail_hint">E-Mail</string>
+    <string name="password_reset_password_hint">Passwort</string>
+    <string name="password_reset_repeat_password_hint">Passwort wiederholen</string>
+
+    <string name="password_reset_reset_button_text">Zurücksetzen</string>
+
+    <string name="password_reset_success_alert_title">Erfolgreich zurückgesetzt!</string>
+    <string name="password_reset_success_alert_text">Du kannst dich jetzt mit deinem neuen Passwort anmelden.</string>
+
+
+    <!-- Login -->
+    <string name="login_error_alert_title">Fehler beim Anmelden</string>
+    <string name="login_mail_hint">E-Mail</string>
+    <string name="login_password_hint">Passwort</string>
+    <string name="login_forgot_password_button_text">Passwort vergessen?</string>
+    <string name="login_button_text">Anmelden</string>
+    <string name="login_registration_button_text">Registrieren</string>
+    <string name="login_successful_login">Erfolgreich angemeldet!</string>
+    <string name="login_invalid_mail_or_password_hint">Die E-Mail-Adresse oder das Passwort ist ungültig.</string>
+    <string name="login_header_title">Anmelden</string>
+    <string name="login_header_subtitle">Du möchtest selbst lokale Infos und Events bei molo veröffentlichen? Dann melde dich an und poste direkt über die App.</string>
+
+    <!-- Article -->
+    <string name="article_report_action_text">Artikel melden</string>
+    <string name="article_no_results_placeholder_text">Keine Artikel gefunden.</string>
+    <string name="article_filter_title_media">Medien</string>
+    <string name="article_filter_title_official">Offizielle</string>
+    <string name="article_filter_title_community">Community</string>
+
+    <!-- Tag Selection -->
+    <string name="tag_selection_headline_event">Event Themen</string>
+    <string name="tag_selection_headline_article">Artikel Themen</string>
+    <string name="tag_selection_all_button_text">Alle</string>
+
+    <!-- Organization -->
+    <string name="organization_headline_event">Kommende Events</string>
+    <string name="organization_headline_article">Beiträge der letzten Tage</string>
+
+    <string name="organization_headline_my_events">Meine Event-Posts</string>
+    <string name="organization_headline_my_articles">Meine Artikel-Posts</string>
+
+
+    <!-- Onboarding -->
+    <string name="news_molo_registration_confirmation_text_title">Willkommen bei Molo!</string>
+    <string name="news_molo_registration_confirmation_text_description">Wir haben dir eine E-Mail mit einem Bestätigungslink gesendet. Bitte gehe zu deinem E-Mail-Postfach, um deinen Account freizuschalten.</string>
+
+    <string name="news_molo_onboarding_step1_title1">Dein Ort,</string>
+    <string name="news_molo_onboarding_step1_title2">deine Themen.</string>
+    <string name="news_molo_onboarding_step1_description1">Infos zum Leben vor deiner Haustür gehen zwischen den Posts aus aller Welt oft unter.
+Schade eigentlich. molo rückt die Themen deines Ortes wieder in den Mittelpunkt.</string>
+
+    <string name="news_molo_onboarding_step1_next">Weiter</string>
+
+    <string name="news_molo_onboarding_step2_title1">Du setzt den Fokus.</string>
+    <string name="news_molo_onboarding_step2_description">Bestimme einen Ort oder teile deinen Standort, um lokale Meldungen zu erhalten und
+Veranstaltungen zu finden. Unabhängig, werbefrei und aktuell.</string>
+    <string name="news_molo_onboarding_step2_next">Ort wählen</string>
+
+    <string name="news_molo_onboarding_step3_title1">Dein Feed,</string>
+    <string name="news_molo_onboarding_step3_title2">deine Inhalte.</string>
+    <string name="news_molo_onboarding_step3_description1">Von Sport über Konzerte bis zum politischen Geschehen: Welche Themen sollen in deinem
+Feed erscheinen – welche nicht? Du bestimmst.</string>
+
+    <string name="news_molo_onboarding_step3_next">Themen wählen</string>
+
+    <string name="news_molo_onboarding_step4_title1">Willkommen bei molo!</string>
+    <string name="news_molo_onboarding_step4_title2">Lokal. Intelligent. Aktuell.</string>
+    <string name="news_molo_onboarding_step4_description">molo bündelt Informationen und Events aus deinem Ort und macht lokale Stimmen sichtbar.
+Aktiviere Benachrichtigungen und bleibe mit molo auf dem Laufenden.</string>
+    <string name="news_molo_onboarding_step4_description_no_push">molo bündelt Informationen und Events aus deiner Region und macht lokale Stimmen
+sichtbar. Bleibe mit molo auf dem Laufenden.</string>
+    <string name="news_molo_onboarding_step4_next">Los geht’s</string>
+
+    <!-- Photo Picker -->
+    <string name="photo_picker_title">Foto Auswählen</string>
+    <string name="photo_picker_gallery_title">Aus Gallerie</string>
+    <string name="photo_picker_camera_title">Foto aufnehmen</string>
+
+    <!-- Search -->
+    <string name="search_headline_event">Events</string>
+    <string name="search_headline_article">Artikel</string>
+    <string name="search_bar_placeholder">Mit KI Suchen…</string>
+    <string name="search_bar_audio_placeholder">Mit KI suchen (z.B.: Etwas Kultur, aber locker!)</string>
+    <string name="search_bar_speech_input_not_supported">Dein Gerät unterstützt keine Spracheingabe…</string>
+    <string name="search_last_searches_text">Zuletzt gesucht</string>
+    <string name="search_clear_history_text">Suchverlauf löschen</string>
+    <string name="search_no_results_headline">Keine Ergebnisse gefunden</string>
+    <string name="search_no_results_description">Wir konnten leider nichts finden, das deiner Suche entspricht. Versuche es mit einem anderen Begriff.</string>
+
+
+</resources>
